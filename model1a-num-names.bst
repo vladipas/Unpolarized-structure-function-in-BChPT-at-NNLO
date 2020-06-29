@@ -29,6 +29,7 @@ ENTRY
     howpublished
     institution
     journal
+    eprint
     key
     month
     note

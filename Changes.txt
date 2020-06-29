@@ -1,0 +1,121 @@
+Dear Bharathi Sundararajan,
+
+thank you very much for the proofs of our paper DS12760.alarcon! Below, we reply to your questions and ask for a couple of changes. We thank you in advance for your work and kindly ask for a second proof.
+
+Best regards,
+Franziska Hagelstein
+
+Reply to specific question 1:
+line 306: "HB" -> "heavy-baryon (HB)"
+
+Reply to specific question 5:
+The references in Eq. (16) should be: proton [38] and neutron [39]
+
+Reply to specific question 7:
+Complete publisher information reads as
+IOP Publishing, Bristol, UK and Morgan & Claypool Publishers, San Rafael, CA, USA
+
+Reply to specific question 8:
+The following description of the Supplemental Material should be included in Ref. [29], not Ref. [73]
+
+"See Supplemental Material at <link> for the analytic expressions of the considered contributions to the polarizabilities and their slopes at the real-photon point, as well as their HB expansion, provided as a Mathematica 12 notebook."
+
+At the link the Supplemental Material can be described as:
+
+"In the Supplemental Material, we provide the polarizabilities and their slopes at the real-photon point, as well as the heavy-baryon expansions of the pion-nucleon loop, Delta-exchange and pion-Delta loop contributions. The Supplemental Material is given as a Mathematica notebook generated in Mathematica version 12.0.0.0."
+
+Furthermore, we ask for the following small corrections:
+
+- Please remove the email address "vladipas@kph.uni-mainz.de"
+
+- Please include Orcid ID's for J.M.A.: 0000-0002-7764-9823 and V.P.: 0000-0002-2613-6104
+
+- In our submitted manuscript we distinguished the symbols \varDelta and \Delta, these became now the same symbols. This should be corrected. 
+
+- Change title by removing "at NLO"
+
+- line 111: “to the static values and slopes of the polarizabilities and moments of structure functions.” -> “to the central values and slopes of the polarizabilities and moments of structure functions at $Q^2=0$.”
+
+- Eqs. (8a), (8b), (22), (33): introduce a space "\mathrm{d}xx" -> "\mathrm{d}x\,x"
+
+- Eq. (13): insert a space after \delta\beta
+
+- Eq. (14): insert a space before and after \delta\beta
+
+- line 299: “both have the Baldin sum rule as their static limit” -> “both change into the Baldin sum rule in the real-photon limit”
+
+- line 425: "N$^2$LO" -> "next-to-next-to-leading order (N$^2$LO)"
+
+- line 428: “static piece $P(0)$” -> “real-photon piece $P(0)$”
+
+- line 516: "static polarizabilities" -> "dipole polarizabilities"
+
+- line 530: “In addition to the static values, we can now investigate the slopes of the polarizabilities at the real-photon point.” -> “In addition, we investigate the slopes of the polarizabilities at the real-photon point.”
+
+- line 589: “For the static values of $\alpha_L$” -> “For $\alpha_L$”
+
+- line 592: “For the slopes at $Q^2=0$” -> “For the slope at $Q^2=0$”
+
+- line 611:
+“departs from the static limit” -> “departs from the real-photon limit”
+
+- line 690: After the second sentence, ending with "..parameter-free prediction of B$\chi$PT", add the following
+sentence:
+
+"We have provided the theoretical uncertainty of these predictions due to higher-order effects, as well as an explicit illustration  
+of such effects due to the inclusion of a low-energy constant from N$^2$LO [$\mathcal{O}(p^4)]$."
+
+Furthermore, in line 690, replace "These amplitudes" by "The obtained VVCS amplitudes"
+
+- line 809:
+“In this section, we give analytical expressions for the static values and slopes at $Q^2=0$ of the  polarizabilities and moments of structure functions.” -> “In this section, we give analytical expressions for the polarizabilities and their slopes at $Q^2=0$.”
+
+- line 815: "Supplemented material" -> "Supplemental Material [29]"
+
+- before Eqs. (B1) and (B15): “Static polarizabilities ($Q^2=0$)” -> “Polarizabilities at $Q^2=0$”
+
+- Remove "?" in title of Ref. [4]
+
+- Ref. [64]: The name of the first author is V.~Olmos de Le{\'o}n - please correct it.
+
+--------------------------------------
+
+
+
+line 353 - 354: Missing references:
+@article{Alarcon:2017lhg,
+    author = "Alarcón, J.M. and Weiss, C.",
+    title = "{Nucleon form factors in dispersively improved Chiral Effective Field Theory II: Electromagnetic form factors}",
+    eprint = "1710.06430",
+    archivePrefix = "arXiv",
+    primaryClass = "hep-ph",
+    reportNumber = "JLAB-THY-17-2568",
+    doi = "10.1103/PhysRevC.97.055203",
+    journal = "Phys. Rev. C",
+    volume = "97",
+    number = "5",
+    pages = "055203",
+    year = "2018"
+}
+
+@article{Alarcon:2018irp,
+    author = "Alarcón, J.M. and Weiss, C.",
+    title = "{Accurate nucleon electromagnetic form factors from dispersively improved chiral effective field theory}",
+    eprint = "1803.09748",
+    archivePrefix = "arXiv",
+    primaryClass = "hep-ph",
+    reportNumber = "JLAB-THY-18-2675",
+    doi = "10.1016/j.physletb.2018.07.060",
+    journal = "Phys. Lett. B",
+    volume = "784",
+    pages = "373--377",
+    year = "2018"
+}
+
+these can be mentioned in lines 718 - 719 as well.
+
+
+
+
+
+
